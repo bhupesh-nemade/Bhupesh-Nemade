@@ -1,5 +1,21 @@
-Bhupesh Nemade 
+# 👋 Hey there, I'm Bhupesh Nemade!
 
-Data Analyst | Problem-Solver | Insight Generator
+🎯 Passionate Entry-level Software Engineer & Data Analyst  
+🚀 Focused on solving real-world problems through clean code and data-driven insights  
+💡 Always curious and constantly learning new tools & technologies
 
-Hello! I’m Bhupesh, a data analyst with a passion for turning raw data into actionable insights. With a background in Computer Science (BE, 8.25 GPA) and hands-on experience in Python, SQL, and Power BI, I enjoy tackling complex problems and delivering value through data-driven solutions.
+---
+
+### 👨‍💻 Tech Stack I Work With:
+- 💻 **Languages:** Java, Python, PHP, JavaScript, SQL, C++
+- 🌐 **Web Dev:** HTML, CSS, Bootstrap, jQuery, React (learning), PHP
+- 📊 **Data & Analytics:** Power BI, Excel, Tableau, Python (Pandas, Seaborn, NumPy)
+- 🛢️ **Databases:** MySQL, SQLite
+- ⚙️ **Tools:** Git, GitHub, VS Code, Postman, Figma
+
+---
+
+### 📌 Featured Projects:
+- 🧠 **Credit Risk Prediction System**  
+  `Python, Pandas, ML, streamlit`  
+  [🔗 View Repository](https://github.com/bhupesh-nemade/credit-risk-prediction)
