@@ -11,7 +11,7 @@
 - 🌐 **Web Dev:** HTML, CSS, Bootstrap, jQuery, React (learning), PHP
 - 📊 **Data & Analytics:** Power BI, Excel, Tableau, Python (Pandas, Seaborn, NumPy)
 - 🛢️ **Databases:** MySQL, SQLite
-- ⚙️ **Tools:** Git, GitHub, VS Code, Postman, Figma
+- ⚙️ **Tools:** Git, GitHub, VS Code, Figma
 
 ---
 
