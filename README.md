@@ -21,6 +21,6 @@
   [🔗 View Repository](https://github.com/bhupesh-nemade/credit-risk-prediction)
 
   #Connect
-Email:-bhupesh.nemade25@gmail.com
-contact No:- +91-9370821735
-LinkedIn:-https://www.linkedin.com/in/bhupesh-nemade-32734a219/
+- Email:-bhupesh.nemade25@gmail.com
+- contact No:- +91-9370821735
+- LinkedIn:-https://www.linkedin.com/in/bhupesh-nemade-32734a219/
